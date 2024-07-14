@@ -7,5 +7,5 @@ To Build Or Combile:
 Downlaod Extention MSVC V140 - VS2015 - C++ Build Tools
 And Change Settings Project To (Release - 64) And Rebuild Soultion
 
-This Method Developer: kernelm0de
+This Method Developer: kernelm0de - 
 Solve Software Bug Problems: mekky0x0
